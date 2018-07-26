@@ -38,7 +38,7 @@ def amounts(perfect_10_recipe)
 end
 
 def number_ingredients(perfect_10_recipe)
-  perfect_10_recipe.size
+  return perfect_10_recipe.size
 end
 
 #1. Create a hash called `perfect_10_recipe` that has the following data:
