@@ -35,7 +35,7 @@ end
 
 def amounts(perfect_10_recipe)
   perfect_10_recipe.each_value do |x|
-    puts "{x}"
+    puts "#{x}"
     end
 end
 
