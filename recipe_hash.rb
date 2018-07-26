@@ -1,5 +1,3 @@
-#code your solutions here
-
 perfect_10_recipe = {
   :almond_flour => "2 cups",
   :gluten_freewhole_oats => "1 cup",
